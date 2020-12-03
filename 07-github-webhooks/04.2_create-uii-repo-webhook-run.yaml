@@ -8,9 +8,9 @@ spec:
   inputs:
     params:
     - name: GitHubOrg
-      value: "nikhil-thomas"
+      value: "ketank-new"
     - name: GitHubUser
-      value: "nikhil-thomas"
+      value: "ketank-new"
     - name: GitHubRepo
       value: "vote-ui"
     - name: GitHubSecretName
